@@ -37,15 +37,19 @@ Disable firewall:  <br/>
 Disable User Account Control:  <br/>
 ![image](https://user-images.githubusercontent.com/118764174/203610803-b7f3b994-a98a-4ff9-a74c-c64e7d20c5d7.png)
 <br />
+<br />
 Scan VM:  <br/>
 ![image](https://user-images.githubusercontent.com/118764174/203611023-537126fe-f925-4c0e-9324-3abc1bc61ce9.png)
-</p>
+<br />
+<br />
 Install old software and scan VM:  <br/>
 ![image](https://user-images.githubusercontent.com/118764174/203611212-f752883a-92b1-4071-ba48-e45ec9dba8f2.png)
-</p>
+<br />
+<br />
 Run windows updates and uninstall old software and scan VM:  <br/>
 ![image](https://user-images.githubusercontent.com/118764174/203611347-31c28df9-e317-4c5a-8e35-f2831e98fc97.png)
-</p>
+<br />
+<br />
 <!--
  ```diff
 - text in red
